@@ -187,8 +187,3 @@ SELECT * FROM movies;
 
 ---
 
-## Key Takeaways
-
-- `SELECT column1, column2 FROM table` returns only the specified columns
-- `SELECT *` returns every column — useful for quickly inspecting a table
-- Column order in `SELECT` determines the order in the output
